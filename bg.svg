@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 2000 1200"
@@ -37,9 +38,9 @@
      inkscape:window-height="730"
      id="namedview11738"
      showgrid="false"
-     inkscape:zoom="0.30641294"
-     inkscape:cx="561.67388"
-     inkscape:cy="1073.3558"
+     inkscape:zoom="0.21666667"
+     inkscape:cx="890.29284"
+     inkscape:cy="901.99566"
      inkscape:window-x="-6"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
@@ -48,6 +49,30 @@
      inkscape:snap-page="true" />
   <defs
      id="defs11714">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14598">
+      <stop
+         style="stop-color:#c11430;stop-opacity:1;"
+         offset="0"
+         id="stop14594" />
+      <stop
+         style="stop-color:#c11430;stop-opacity:0;"
+         offset="1"
+         id="stop14596" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14548">
+      <stop
+         style="stop-color:#c11430;stop-opacity:1;"
+         offset="0"
+         id="stop14544" />
+      <stop
+         style="stop-color:#c11430;stop-opacity:0;"
+         offset="1"
+         id="stop14546" />
+    </linearGradient>
     <linearGradient
        id="a"
        x1="284.13"
@@ -96,21 +121,41 @@
          stop-color="#f1f1f1"
          id="stop11711" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14548"
+       id="linearGradient14550"
+       x1="-2000.0001"
+       y1="1153.6743"
+       x2="-247.21545"
+       y2="1153.6743"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.0772018,0,-1226.9203)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14598"
+       id="linearGradient14600"
+       x1="0"
+       y1="37.762989"
+       x2="2003.8318"
+       y2="37.762989"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
-     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#801138;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.133333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14600);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0445818;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect11742"
      width="2003.8318"
-     height="29.372129"
+     height="75.525978"
      x="0"
      y="0" />
   <rect
-     style="font-variation-settings:normal;vector-effect:none;fill:#801138;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.124701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14550);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0400698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect11742-3"
      width="1752.7847"
-     height="29.372129"
-     x="247.21541"
-     y="1138.9883" />
+     height="61.011841"
+     x="-2000.0001"
+     y="1138.9883"
+     transform="scale(-1,1)" />
   <path
      d="m 123.43693,1133.3869 7.54856,0.049 v 2.4538 c 0,0 -0.65864,-0.886 -1.56221,-0.886 -0.89467,-9e-4 -3.27815,0.1462 -3.27815,0.1462 v 3.9718 h 3.26203 l 0.31639,-0.072 v 2.2125 l -0.65891,-0.5002 h -2.8792 v 4.9307 c 0,0 1.02646,0.513 2.77827,0.513 1.74264,0 3.95125,-1.1863 3.95125,-1.1863 l -0.1696,0.4023 -0.80737,2.2878 h -8.98454 c 0,0 0.98474,-0.6503 0.97168,-1.4026 -0.0153,-0.7599 0,-11.4806 0,-11.4806 0,0 0.0536,-1.1627 -0.79292,-1.1627 0.19573,-0.278 0.30472,-0.2797 0.30472,-0.2797"
      style="fill:#c11430;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0278021"
