@@ -38,9 +38,9 @@
      inkscape:window-height="730"
      id="namedview11738"
      showgrid="false"
-     inkscape:zoom="0.21666667"
-     inkscape:cx="890.29284"
-     inkscape:cy="901.99566"
+     inkscape:zoom="0.61282589"
+     inkscape:cx="401.95811"
+     inkscape:cy="292.6632"
      inkscape:window-x="-6"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
@@ -139,13 +139,14 @@
        y1="37.762989"
        x2="2003.8318"
        y2="37.762989"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1,0.87036634)" />
   </defs>
   <rect
-     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14600);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0445818;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14600);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0415919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect11742"
      width="2003.8318"
-     height="75.525978"
+     height="65.735268"
      x="0"
      y="0" />
   <rect
